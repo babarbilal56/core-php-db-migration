@@ -1,4 +1,4 @@
-# Database Migration System
+# Database Migration
 
 This script provides a simple migration system using PHP and MySQL. It allows applying and rolling back database migrations efficiently.
 
